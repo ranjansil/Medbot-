@@ -1,0 +1,16 @@
+## Download the Llama 2 Model:
+
+llama-2-7b-chat.ggmlv3.q4_0.bin
+
+
+## From the following link:
+https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main
+
+
+
+## Download the TinyLlama Model:
+
+tinyllama-1.1b-chat-v1.0.Q4_K_M.gguf
+
+## From the following link:
+https://huggingface.co/TheBloke/TinyLlama-1.1B-Chat-v1.0-GGUF/resolve/main/tinyllama-1.1b-chat-v1.0.q4_k_m.gguf
